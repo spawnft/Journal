@@ -1,0 +1,17 @@
+D:\Диплом\Проект\SchoolJournal\SchoolJournal\bin\Debug\SchoolJournal.exe.config
+D:\Диплом\Проект\SchoolJournal\SchoolJournal\bin\Debug\SchoolJournal.exe
+D:\Диплом\Проект\SchoolJournal\SchoolJournal\bin\Debug\SchoolJournal.pdb
+D:\Диплом\Проект\SchoolJournal\SchoolJournal\obj\Debug\SchoolJournal.Properties.Resources.resources
+D:\Диплом\Проект\SchoolJournal\SchoolJournal\obj\Debug\SchoolJournal.csproj.GenerateResource.Cache
+D:\Диплом\Проект\SchoolJournal\SchoolJournal\obj\Debug\SchoolJournal.exe
+D:\Диплом\Проект\SchoolJournal\SchoolJournal\obj\Debug\SchoolJournal.pdb
+D:\Диплом\Проект\SchoolJournal\SchoolJournal\obj\Debug\SchoolJournal.LogIn.resources
+D:\Диплом\Проект\SchoolJournal\SchoolJournal\obj\Debug\SchoolJournal.AddClass.resources
+D:\Диплом\Проект\SchoolJournal\SchoolJournal\obj\Debug\SchoolJournal.AddPredmet.resources
+D:\Диплом\Проект\SchoolJournal\SchoolJournal\obj\Debug\SchoolJournal.AddPupil.resources
+D:\Диплом\Проект\SchoolJournal\SchoolJournal\obj\Debug\SchoolJournal.AddTeacher.resources
+D:\Диплом\Проект\SchoolJournal\SchoolJournal\obj\Debug\SchoolJournal.MainForm.resources
+D:\Диплом\Проект\SchoolJournal\SchoolJournal\bin\Debug\EntityFramework.dll
+D:\Диплом\Проект\SchoolJournal\SchoolJournal\bin\Debug\EntityFramework.SqlServer.dll
+D:\Диплом\Проект\SchoolJournal\SchoolJournal\bin\Debug\EntityFramework.xml
+D:\Диплом\Проект\SchoolJournal\SchoolJournal\bin\Debug\EntityFramework.SqlServer.xml

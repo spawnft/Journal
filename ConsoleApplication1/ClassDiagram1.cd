@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="SchoolJournal.Entites.Class">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAEAAAAAAAAAAAAAAAAAAAABAgAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entites\Class.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SchoolJournal.Entites.ClassStatus">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAACAAAgAAQAAAAAAgIAAAAgAAAAAAAAAAAAEAAACAA=</HashCode>
+      <FileName>Entites\ClassStatus.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SchoolJournal.Entites.DataContext">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAACACADAAkAAAAAAAAAAAAgAAAAgAAAEAAAAgAAAAA=</HashCode>
+      <FileName>Entites\DataContext.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SchoolJournal.Entites.Ocenka">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAABAAAQAAAAAAAAAAAAAAEAACAAAhAgAAAAAAA=</HashCode>
+      <FileName>Entites\Ocenka.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SchoolJournal.Entites.Predmet">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQACAAAAAAAAAAAAAAAAAAQgAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entites\Predmet.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SchoolJournal.Entites.PredmetiClass">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAECAAAAAAgAAAAAAAAACAAAAAIQAAABAAAAEAAAAAA=</HashCode>
+      <FileName>Entites\PredmetiClass.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SchoolJournal.Entites.Propusk">
+    <Position X="11" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAABAAAQAAAAAAAAAAQAAAEAACAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entites\Propusk.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SchoolJournal.Entites.Pupil">
+    <Position X="11" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACACAAAAwAAAAAAAAQAAQABAAIAAAAAAAAAAAACAA=</HashCode>
+      <FileName>Entites\Pupil.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SchoolJournal.Entites.Quarter">
+    <Position X="9.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACACAAAAgAAAAAAEAAAAAAAAAQAAABAAAAAAAAAAA=</HashCode>
+      <FileName>Entites\Quarter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SchoolJournal.Entites.TeachClass">
+    <Position X="7.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAECAAABAAAAAAAAAAAACAAAAAAAgAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entites\TeachClass.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SchoolJournal.Entites.Teacher">
+    <Position X="5.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAACAAAAAAAAAAAQAAQgBAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entites\Teacher.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SchoolJournal.Entites.TeachYear">
+    <Position X="0.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAAgAAAAgAAAAAAAAEAAAAA=</HashCode>
+      <FileName>Entites\TeachYear.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,10 @@
+D:\Диплом\Проект\SchoolJournal\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\Диплом\Проект\SchoolJournal\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\Диплом\Проект\SchoolJournal\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\Диплом\Проект\SchoolJournal\ConsoleApplication1\bin\Debug\EntityFramework.dll
+D:\Диплом\Проект\SchoolJournal\ConsoleApplication1\bin\Debug\EntityFramework.SqlServer.dll
+D:\Диплом\Проект\SchoolJournal\ConsoleApplication1\bin\Debug\EntityFramework.xml
+D:\Диплом\Проект\SchoolJournal\ConsoleApplication1\bin\Debug\EntityFramework.SqlServer.xml
+D:\Диплом\Проект\SchoolJournal\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+D:\Диплом\Проект\SchoolJournal\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\Диплом\Проект\SchoolJournal\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
